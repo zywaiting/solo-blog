@@ -10,6 +10,7 @@ java经验总结
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://zhuyao.xin/my-github-repos)
 * [给自学的福利，希望能帮助你走上高薪的道路（java视频资料）](http://zhuyao.xin/articles/2019/09/18/1568797448008.html)
 * [剑指Java面试-Offer直通车(java)](http://zhuyao.xin/articles/2019/09/18/1568797061680.html)
 * [Java就业指导](http://zhuyao.xin/articles/2019/08/18/1566111671856.html)
